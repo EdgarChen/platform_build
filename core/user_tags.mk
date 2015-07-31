@@ -77,9 +77,6 @@ GRANDFATHERED_USER_MODULES += \
 	audio \
 	badblocks \
 	badblocks_host \
-	bb2sym \
-	bb_dump \
-	bbprof \
 	bcc \
 	bison \
 	bluetoothd \
@@ -88,15 +85,12 @@ GRANDFATHERED_USER_MODULES += \
 	brcm_patchram_plus \
 	bugreport \
 	cfassembler \
-	check_stack \
-	check_trace \
 	cmu2nuance \
 	com.android.phone.common \
 	com.android.vcard \
 	commons-compress-1.0 \
 	copybit.qsd8k \
 	copybit.s5pc110 \
-	coverage \
 	cpufeatures \
 	cts \
 	CtsAppSecurityTests \
@@ -122,7 +116,6 @@ GRANDFATHERED_USER_MODULES += \
 	draw9patch \
 	dumpeventlog \
 	dumpkey \
-	dump_regions \
 	dumpstate \
 	dumpsys \
 	dx-tests \
@@ -143,7 +136,6 @@ GRANDFATHERED_USER_MODULES += \
 	emulator-ui \
 	etc1tool \
 	eventanalyzer \
-	exc_dump \
 	fastboot \
 	framework \
 	FrameworkCoreHostTests \
@@ -166,7 +158,6 @@ GRANDFATHERED_USER_MODULES += \
 	hierarchyviewer1 \
 	hierarchyviewer2 \
 	hierarchyviewerlib \
-	hist_trace \
 	hosttestlib \
 	icudata \
 	idegen \
@@ -447,19 +438,10 @@ GRANDFATHERED_USER_MODULES += \
 	ping \
 	platform.xml \
 	pm \
-	post_trace \
 	pppd \
 	preload \
-	profile_pid \
-	profile_trace \
-	q2dm \
-	q2g \
 	qemu-android \
 	racoon \
-	read_addr \
-	read_method \
-	read_pid \
-	read_trace \
 	resize2fs \
 	resize2fs_host \
 	rgb2565 \
@@ -493,7 +475,6 @@ GRANDFATHERED_USER_MODULES += \
 	simg2img \
 	spec-progress \
 	sqlite3 \
-	stack_dump \
 	stringtemplate \
 	svc \
 	swing-worker-1.1 \
