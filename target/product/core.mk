@@ -58,6 +58,7 @@ PRODUCT_PACKAGES := \
     dmtracedump \
     dx \
     ext \
+    emulator-standalone \
     filterfw \
     framework-res \
     hprof-conv \

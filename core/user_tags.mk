@@ -126,14 +126,6 @@ GRANDFATHERED_USER_MODULES += \
 	edify \
 	elftree \
 	emmalib \
-	emulator \
-	emulator-arm \
-	emulator-core \
-	emulator-elff \
-	emulator-hw \
-	emulator-memcheck \
-	emulator-tcg \
-	emulator-ui \
 	etc1tool \
 	eventanalyzer \
 	fastboot \
